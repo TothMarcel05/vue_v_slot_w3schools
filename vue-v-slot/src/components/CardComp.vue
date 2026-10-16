@@ -31,7 +31,7 @@
 }
 .card-body {
   padding: 15px;
-  color: #333; /* <-- EZT KELL HOZZÁADNI, HOGY SÖTÉT LEGYEN A SZÖVEG */
+  color: #333;
 }
 .card-footer {
   background-color: #f1f1f1;
